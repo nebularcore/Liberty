@@ -1,0 +1,8 @@
+{
+  "name": "liberty",
+  "version": "1.0.0",
+  "description": "I See The Light",
+  "private": true,
+  "license": "MIT",
+  "type": "module"
+}
